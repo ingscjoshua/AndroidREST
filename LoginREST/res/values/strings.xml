@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">LoginREST</string>
+    <string name="user">Usuario</string>
+    <string name="pwd">Contraseña</string>
+    <string name="login">Iniciar sesión</string>
+    <string name="welcome">Bienvenido:</string>
+    <string name="closeSession">Cerrar sesión</string>
+
+    
+  
+</resources>
